@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1824843522911981568/5GOutw-E_400x400.jpg" alt="Anubhavauthor Logo" width="100" style="border:2px solid black; border-radius: 10px;" />
-</p>
-
-
 # 🖋️ Anubhav Shrivastava
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFbFHHR2Ms4Pw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1716042042856?e=2147483647&v=beta&t=Qq49BVBKV8VM-BQCJ29OUQkyTtevShHaKDR_5dnPGYs" alt="Anubhav Shrivastava" width="120" style="border:2px solid black; border-radius: 50%;" />
-</p>
-
 
 *"Ink is the blood of thought, and I — its devoted scribe."*  
 — Self-Help Author | Digital Creator | Python Enthusiast | Literary Technologist
